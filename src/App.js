@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect} from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 import { Phone, Mail, MapPin, Menu, X, Car, Plane, Train, Building, Star } from 'lucide-react';
 import TaxiImage from './Firefly_A shot of a Taxi car designed for a website 112312.jpg';
