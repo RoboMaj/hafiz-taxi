@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hafiz-taxi/static/css/main.38787db4.css",
+    "main.js": "/hafiz-taxi/static/js/main.2ed8b094.js",
+    "static/js/453.f5babed7.chunk.js": "/hafiz-taxi/static/js/453.f5babed7.chunk.js",
+    "static/media/Firefly_A shot of a Taxi car designed for a website 112312.jpg": "/hafiz-taxi/static/media/Firefly_A shot of a Taxi car designed for a website 112312.7a3a199adc93df66c6f3.jpg",
+    "index.html": "/hafiz-taxi/index.html",
+    "main.38787db4.css.map": "/hafiz-taxi/static/css/main.38787db4.css.map",
+    "main.2ed8b094.js.map": "/hafiz-taxi/static/js/main.2ed8b094.js.map",
+    "453.f5babed7.chunk.js.map": "/hafiz-taxi/static/js/453.f5babed7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38787db4.css",
+    "static/js/main.2ed8b094.js"
+  ]
+}
